@@ -1,0 +1,22 @@
+{
+  "name": "loginsideproject.github.io",
+  "version": "1.0.0",
+  "description": "整理一下台大資訊班node.js及mongoDB的上課內容並彙整成具CRUD功能的登入介面",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "node index.js",
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ian94305/loginSideproject.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ian94305/loginSideproject.github.io/issues"
+  },
+  "homepage": "https://github.com/ian94305/loginSideproject.github.io#readme"
+}
